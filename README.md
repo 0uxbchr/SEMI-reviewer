@@ -1,4 +1,4 @@
-# SEMI Freight — Reviewer Preview
+# SEMI Freight
 
 SEMI Freight is a freight transport prototype connecting shippers, loaded-trailer owners, truck owners, drivers, and transport companies. It demonstrates the journey from requesting transport and comparing offers to assigning a driver, confirming delivery, and recording payment acknowledgment.
 
