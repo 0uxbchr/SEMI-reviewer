@@ -43,7 +43,7 @@ Account access and company separation demonstrate intended workflows; they are n
 
 ## Review materials
 
-[Download the runnable prototype](https://github.com/0uxbchr/SEMI-reviewer/releases/latest/download/SEMI-Reviewer.zip), then extract the ZIP.
+[Download the runnable prototype](https://github.com/0uxbchr/SEMI-reviewer/raw/refs/heads/main/SEMI-Reviewer.zip), then extract the ZIP.
 
 1. Install Node.js 22 LTS if it is not already installed.
 2. On Windows, double-click **Start SEMI.cmd**. On macOS or Linux, open a terminal in the extracted folder and run `sh start.sh`. Alternatively, run `npm start` in that folder.
@@ -55,3 +55,4 @@ No dependency installation or build is needed. Open the address above rather tha
 The download includes the runnable build, assets, required notices, and a small local launcher. Original application source files, source maps, development files, and development history are excluded. As with any browser application, the compiled JavaScript delivered to the browser remains inspectable.
 
 This repository provides reviewer documentation and a runnable download. No GitHub account is needed to access the public review materials.
+
